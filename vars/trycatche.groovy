@@ -14,6 +14,6 @@ def call() {
 
         echo "Error: ${e.message}"
 
-        throw e
+        // throw e
     }
 }
