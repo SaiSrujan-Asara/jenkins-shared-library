@@ -6,6 +6,4 @@ def call() {
 
     sh 'uname'
 
-    sh 'top'
-
 }
